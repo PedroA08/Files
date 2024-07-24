@@ -26,7 +26,7 @@ Slides com informações sobre o trabalho, seus objetivos, resultados e relevân
 
 ### Artigo sobre Design de Games
 Infográfico, abordando o impacto ambiental causado pelo descarte incorreto de lâmpadas fluorescentes.
-[Ver Infográfico](https://github.com/PedroA08/Pedro-Arthur-Ribeiro/blob/main/situa%C3%A7%C3%A3o%20problema%20com%20pet.pdf)
+[Ver Infográfico](https://github.com/PedroA08/Pedro-Arthur-Ribeiro/blob/main/Infogr%C3%A1fico%20Reciclus.pdf)
 
 </body>
 
