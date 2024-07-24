@@ -24,9 +24,13 @@ Emitido por: Cisco
 Slides com informações sobre o trabalho, seus objetivos, resultados e relevância.
 [Ver Trabalho](https://github.com/PedroA08/Pedro-Arthur-Ribeiro/blob/main/situa%C3%A7%C3%A3o%20problema%20com%20pet.pdf)
 
-### Artigo sobre Design de Games
+### Infogáfico Reciclus
 Infográfico, abordando o impacto ambiental causado pelo descarte incorreto de lâmpadas fluorescentes.
 [Ver Infográfico](https://github.com/PedroA08/Pedro-Arthur-Ribeiro/blob/main/Infogr%C3%A1fico%20Reciclus.pdf)
+
+### Vídeo feito em grupo sobre IPV4 e IPV6
+Vídeo produzido em grupo para analisar as suas importâncias.
+[Ver Vídeo](https://www.youtube.com/watch?v=VU70OoLYMGs)
 
 </body>
 
